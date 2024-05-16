@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "/Users/m/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/m/Projects/CSharp_Masterclass_2024_Udemy/OOP_Part_2_Exercises/Cookie_Cookbook/Cookie_Cookbook.csproj",
+      "projectName": "Cookie_Cookbook",
+      "projectPath": "/Users/m/Projects/CSharp_Masterclass_2024_Udemy/OOP_Part_2_Exercises/Cookie_Cookbook/Cookie_Cookbook.csproj",
+      "packagesPath": "/Users/m/.nuget/packages/",
+      "outputPath": "/Users/m/Projects/CSharp_Masterclass_2024_Udemy/OOP_Part_2_Exercises/Cookie_Cookbook/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/m/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

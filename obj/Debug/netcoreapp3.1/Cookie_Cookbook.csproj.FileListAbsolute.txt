@@ -1,0 +1,13 @@
+/Users/m/Projects/CSharp_Masterclass_2024_Udemy/OOP_Part_2_Exercises/Cookie_Cookbook/obj/Debug/netcoreapp3.1/Cookie_Cookbook.csproj.AssemblyReference.cache
+/Users/m/Projects/CSharp_Masterclass_2024_Udemy/OOP_Part_2_Exercises/Cookie_Cookbook/obj/Debug/netcoreapp3.1/Cookie_Cookbook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m/Projects/CSharp_Masterclass_2024_Udemy/OOP_Part_2_Exercises/Cookie_Cookbook/obj/Debug/netcoreapp3.1/Cookie_Cookbook.AssemblyInfoInputs.cache
+/Users/m/Projects/CSharp_Masterclass_2024_Udemy/OOP_Part_2_Exercises/Cookie_Cookbook/obj/Debug/netcoreapp3.1/Cookie_Cookbook.AssemblyInfo.cs
+/Users/m/Projects/CSharp_Masterclass_2024_Udemy/OOP_Part_2_Exercises/Cookie_Cookbook/obj/Debug/netcoreapp3.1/Cookie_Cookbook.csproj.CoreCompileInputs.cache
+/Users/m/Projects/CSharp_Masterclass_2024_Udemy/OOP_Part_2_Exercises/Cookie_Cookbook/bin/Debug/netcoreapp3.1/Cookie_Cookbook.deps.json
+/Users/m/Projects/CSharp_Masterclass_2024_Udemy/OOP_Part_2_Exercises/Cookie_Cookbook/bin/Debug/netcoreapp3.1/Cookie_Cookbook.runtimeconfig.json
+/Users/m/Projects/CSharp_Masterclass_2024_Udemy/OOP_Part_2_Exercises/Cookie_Cookbook/bin/Debug/netcoreapp3.1/Cookie_Cookbook.runtimeconfig.dev.json
+/Users/m/Projects/CSharp_Masterclass_2024_Udemy/OOP_Part_2_Exercises/Cookie_Cookbook/bin/Debug/netcoreapp3.1/Cookie_Cookbook.dll
+/Users/m/Projects/CSharp_Masterclass_2024_Udemy/OOP_Part_2_Exercises/Cookie_Cookbook/bin/Debug/netcoreapp3.1/Cookie_Cookbook.pdb
+/Users/m/Projects/CSharp_Masterclass_2024_Udemy/OOP_Part_2_Exercises/Cookie_Cookbook/obj/Debug/netcoreapp3.1/Cookie_Cookbook.dll
+/Users/m/Projects/CSharp_Masterclass_2024_Udemy/OOP_Part_2_Exercises/Cookie_Cookbook/obj/Debug/netcoreapp3.1/Cookie_Cookbook.pdb
+/Users/m/Projects/CSharp_Masterclass_2024_Udemy/OOP_Part_2_Exercises/Cookie_Cookbook/obj/Debug/netcoreapp3.1/Cookie_Cookbook.genruntimeconfig.cache
